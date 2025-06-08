@@ -1,5 +1,12 @@
 # Monster Hunter Wilds Pathfinding & Harvesting Bot
 
+
+
+https://github.com/user-attachments/assets/081ac47f-5610-4f0f-b4d0-f726f6bd39cb
+
+
+
+
 This project is a C# Windows Forms application designed to assist with navigation and automated resource harvesting in Monster Hunter Wilds. It features pathfinding, dynamic navmesh generation, waypoint management, and virtual controller input for character movement and actions. It is in a usable state, however it still needs a lot of work. I do not condone the use of this in a cheating context, it's purely an educational tool. A get_player_position.lua script is provided also, you will need REFramework to run it. 
 
 ## Overview
